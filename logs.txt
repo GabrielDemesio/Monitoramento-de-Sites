@@ -1,0 +1,4 @@
+19/04/2022 09:40:37-https://www.alura.com.br - online: true
+19/04/2022 09:40:37-https://www.caelum.com.br - online: true
+19/04/2022 09:40:38-https://www.golang.org - online: true
+19/04/2022 09:40:39-https://www.facebook.com - online: true
